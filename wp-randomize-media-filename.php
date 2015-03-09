@@ -5,7 +5,7 @@
  * Description: Randomizes the filename of newly uploaded media files.
  * Author: Usability Dynamics, Inc.
  * Author URI: https://www.usabilitydynamics.com/
- * Version: 1.0.0
+ * Version: 1.1.0
  * GitHub Plugin URL: UsabilityDynamics/wp-hashify-media-filename
  *
  */
