@@ -1,9 +1,9 @@
 
 {
-  "name": "usabilitydynamics/wp-randomize-media-filename",
+  "name": "usabilitydynamics/wp-hashify-media-filename",
   "type": "wordpress-plugin",
   "description": "WordPress plugin that randomizes the filename of newly uploaded media files.",
-  "homepage": "https://github.com/usabilitydynamics/wp-randomize-media-filename",
+  "homepage": "https://github.com/usabilitydynamics/wp-hashify-media-filename",
   "keywords": [
     "wordpress",
     "multisite",
